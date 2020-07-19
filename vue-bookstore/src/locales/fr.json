@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "booksLink": "Livres",
+    "adminLink": "Administration",
+    "loginLink": "Connexion",
+    "logoutLink": "Déconnexion"
+  },
+  "forms": {
+    "errorList": "Merci de corriger les erreurs suivantes :"
+  },
+  "booklist": {
+    "back": "Retour à la liste"
+  },
+  "login": {
+    "title": "Connexion",
+    "errorMessages": {
+      "mustBeLoggedIn": "Vous devez être connecté pour accéder à cette page"
+    },
+    "form": {
+      "controls": {
+        "email": {
+          "label": "Email",
+          "required": "Vous devez préciser une addresse email"
+        },
+        "password": {
+          "label": "Mot de passe",
+          "required": "Vous devez préciser un mot de passe"
+        }
+      },
+      "buttons": { "login": "Connexion" }
+    }
+  },
+  "auth": {
+    "error": {
+      "userNotFound": "L'utilisateur n'a pas été trouvé ou le mot de passe est incorrect"
+    }
+  },
+  "admin": {
+    "link": { "addBook": "Ajouter un livre", "addAuthor": "Ajouter un auteur" },
+    "addBook": {
+      "title": "Ajouter un livre",
+      "messages": { "addBookSuccess": "Livre ajouté !" },
+      "form": {
+        "controls": {
+          "title": {
+            "label": "Titre",
+            "required": "Vous devez préciser un titre"
+          },
+          "author": {
+            "label": "Auteur",
+            "required": "Vous devez choisir un auteur",
+            "placeholder": "Séléctionner un auteur"
+          },
+          "summary": { "label": "Résumé" },
+          "stock": {
+            "label": "Stock",
+            "required": "Vous devez préciser le nombre de livre en stock pour cette référence",
+            "min": "Vous ne pouvez pas avoir moins de 0 livres en stock"
+          },
+          "cover": {
+            "label": "URL d'image de couverture",
+            "pattern": "Vous devez préciser une adresse URL valide"
+          }
+        },
+        "buttons": { "add": "Ajouter" }
+      }
+    },
+    "addAuthor": {
+      "title": "Ajouter un auteur",
+      "messages": { "addAuthorSuccess": "Auteur ajouté" },
+      "form": {
+        "controls": {
+          "title": { "label": "Nom", "required": "Vous devez préciser un nom" }
+        },
+        "buttons": { "add": "Ajouter" }
+      }
+    }
+  }
+}

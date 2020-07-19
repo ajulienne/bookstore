@@ -1,0 +1,34 @@
+.book-detail {
+
+  .summary {
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    margin-top: 20px;
+
+    p {
+      font-size: 1.1em;
+      text-align: justify;
+      white-space: pre-wrap;
+    }
+
+  }
+
+  .error {
+    color: red;
+  }
+
+  .infos {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin-top: 50px;
+
+    margin-left: 10%;
+
+    img {
+      width: 100%;
+    }
+  }
+
+}

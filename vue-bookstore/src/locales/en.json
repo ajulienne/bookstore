@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "booksLink": "Books",
+    "adminLink": "Admin",
+    "loginLink": "Login",
+    "logoutLink": "Logout"
+  },
+  "forms": {
+    "errorList": "Please correct the following errors:"
+  },
+  "booklist": {
+    "back": "Back to the list"
+  },
+  "login": {
+    "title": "Login",
+    "errorMessages": { "mustBeLoggedIn": "You must be logged in" },
+    "form": {
+      "controls": {
+        "email": {
+          "label": "Email",
+          "required": "You must specify an email address"
+        },
+        "password": {
+          "label": "Password",
+          "required": "You must specify a password"
+        }
+      },
+      "buttons": { "login": "Log in" }
+    }
+  },
+  "auth": {
+    "error": { "userNotFound": "User not found or password is incorrect." }
+  },
+  "admin": {
+    "link": { "addBook": "Add a book", "addAuthor": "Add an author" },
+    "addBook": {
+      "title": "Add a book",
+      "messages": { "addBookSuccess": "Book added!" },
+      "form": {
+        "controls": {
+          "title": { "label": "Title", "required": "You must specify a title" },
+          "author": {
+            "label": "Author",
+            "placeholder": "Select an author",
+            "required": "You must select an author"
+          },
+          "summary": { "label": "Summary" },
+          "stock": {
+            "label": "Stock",
+            "required": "You must enter the number of books in stock for this reference",
+            "min": "You can't have less than 0 book in stock"
+          },
+          "cover": {
+            "label": "Cover URL",
+            "pattern": "You must specify a valid URL"
+          }
+        },
+        "buttons": { "add": "Add" }
+      }
+    },
+    "addAuthor": {
+      "title": "Add an author",
+      "messages": { "addAuthorSuccess": "Author added!" },
+      "form": {
+        "controls": {
+          "name": { "label": "Name", "required": "You must specify a Name" }
+        },
+        "buttons": { "add": "Add" }
+      }
+    }
+  }
+}

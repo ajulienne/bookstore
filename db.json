@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Simarillion",
+      "author": "J.R.R. Tolkien",
+      "summary": "The forerunner to The Lord of the Rings, The Silmarillion fills in the background which lies behind the more popular work, and gives the earlier history of Middle-earth, introducing some of the key characters.\n\nThe Silmarillion is an account of the Elder Days, of the First Age of Tolkien’s world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor.\n\nIncluded in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Númenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings.",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/41SAdzmroEL._SX327_BO1,204,203,200_.jpg",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "The Call of Cthulhu",
+      "author": "H.P. Lovecraft",
+      "summary": "Boston, 1926. Francis Thurston goes through documents left behind by his grandfather’s brother, recently deceased under mysterious circumstances. He soon discovers the existence of a cult that worships ancient and unspeakable horrors. Mysterious murders, blood rituals in the depths of the Louisiana swamps, artists who descend into insanity after nightmarish visions, and a Cyclopean city that rises from the sea. Step by step, Thurston realizes that his relative’s research got too close to the truth. In the shadows, there are those who want to wake the sleeping god Cthulhu in order to spread madness and destruction over the entire world. The stars are right. Is the end near?\n\nH.P. Lovecraft’s The Call of Cthulhu, first published in 1928, is one of the greatest classics of American horror literature. Cthulhu himself, dreaming and waiting at the bottom of the sea, became a symbol for the entire mythology that Lovecraft created. François Baranger, an illustrator who has previously worked in film and games, was fascinated early on by Lovecraft’s creatures and visions which populated the darkest recesses of fantasy. In this book, he has taken on the work of illustrating Lovecraft’s most iconic novel.",
+      "cover": "https://pictures.abebooks.com/GBITW/16772656126.jpg",
+      "stock": 1
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "summary": "In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be.\n\nLionel Trilling said of Orwell’s masterpiece “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+      "cover": "https://m.media-amazon.com/images/I/41E9Z5XaHcL.jpg",
+      "stock": 16
+    },
+    {
+      "id": 4,
+      "title": "The Last Wish",
+      "author": "Andrzej Sapkowski",
+      "summary": "Geralt is a Witcher, a man whose magic powers, enhanced by long training and a mysterious elixir, have made him a brilliant fighter and a merciless assassin. Yet he is no ordinary murderer: his targets are the multifarious monsters and vile fiends that ravage the land and attack the innocent.\n\nBut not everything monstrous-looking is evil and not everything fair is good...and in every fairy tale there is a grain of truth.",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/41lNgdNHECL.jpg",
+      "stock": 4
+    },
+    {
+      "title": "A Song of Ice and Fire",
+      "author": "George R. R. Martin",
+      "stock": 10,
+      "summary": "Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King’s Landing. There Eddard Stark of Winterfell rules in Robert’s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse—unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season.\n\nYet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen’s brothers Jaime and Tyrion of the powerful and wealthy House Lannister—the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms.\n\nMeanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki—whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
+      "id": 5
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "J.R.R. Tolkien"
+    },
+    {
+      "id": 2,
+      "name": "H.P. Lovecraft"
+    },
+    {
+      "id": 3,
+      "name": "George Orwell"
+    },
+    {
+      "id": 4,
+      "name": "Andrzej Sapkowski"
+    },
+    {
+      "id": 5,
+      "name": "George R. R. Martin"
+    },
+    {
+      "name": "Antoine Julienne",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "ajulienne",
+      "email": "ajulienne@email.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "username": "toto",
+      "email": "toto@toto.com",
+      "password": "password"
+    }
+  ]
+}
